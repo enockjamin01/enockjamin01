@@ -1,1 +1,1 @@
-<img align="left" width="100" height="100" src="avento.gif">
+<img align="left" width="300" height="400" src="avento.gif">
