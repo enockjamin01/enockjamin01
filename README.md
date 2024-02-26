@@ -1,7 +1,7 @@
 <img align="left" width="350" height="300" src="avento.gif">
 :bust_in_silhouette: <strong>B Jamin Enock</strong>
 <br>
-:floppy_disk: <strong>DataScience / Machine Learning</strong>
+:floppy_disk: <strong>Data Science / Machine Learning</strong>
 <br>
 :round_pushpin: <strong>Bangalore, India</strong>
 <br>
