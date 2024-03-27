@@ -1,7 +1,8 @@
+📓 Resume: [B Jamin Enock Resume.pdf](https://github.com/enockjamin01/B-Jamin-Enock-Resume/blob/main/B%20Jamin%20Enock%20Resume.pdf)
+<br>
+<br>
 <img align="left" width="350" height="300" src="avento.gif">
 :bust_in_silhouette: <strong>B Jamin Enock</strong>
-<br>
-📓: <strong>Resume</strong>(https://github.com/enockjamin01/B-Jamin-Enock-Resume)
 <br>
 :floppy_disk: <strong>Data Science / Machine Learning</strong>
 <br>
