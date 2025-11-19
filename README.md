@@ -1,4 +1,4 @@
-📓 Resume: [B Jamin Enock Resume.pdf](https://github.com/enockjamin01/B-Jamin-Enock-Resume/blob/main/B%20Jamin%20Enock%20Resume.pdf)
+📓 Resume: [B Jamin Enock Resume.pdf]([https://github.com/enockjamin01/B-Jamin-Enock-Resume/blob/main/B%20Jamin%20Enock%20Resume.pdf](https://github.com/enockjamin01/B-Jamin-Enock-Resume/blob/main/B_Jamin_Enock_Resume.pdf))
 <br>
 <br>
 <img align="left" width="350" height="300" src="avento.gif">
